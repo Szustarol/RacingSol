@@ -1,0 +1,9 @@
+{
+    "mapWidth": 100,
+    "mapHeight": 60,
+    "frequency": 0.05,
+    "spawnNeighbors": 3,
+    "overCrowdedNeighbors": 4,
+    "minNeighbors": 2,
+    "positions": [[0, 13], [1, 7], [1, 8], [2, 8], [2, 12], [2, 13], [2, 14]]
+}
